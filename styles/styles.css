@@ -1,0 +1,39 @@
+body {
+    background-color:black; 
+    
+}
+
+
+.container1{
+    text-align: center;
+    color: white;
+   
+  
+}
+h1{
+   font-size: 7rem; 
+
+}
+
+
+.start{
+    font-size: 2rem;
+    background-color: white;
+  
+    padding: .25em .5em;
+    cursor: pointer;
+   
+
+}
+
+ .start:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+label{
+    text-align: right;
+    flex-wrap: wrap;
+    display: flex;
+}
+
